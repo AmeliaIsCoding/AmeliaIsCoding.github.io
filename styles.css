@@ -7,3 +7,7 @@ h1 {
     color: palevioletred;
     border: 1px solid paleturquoise;
 }
+div {
+    flex: 1;
+    flex-direction: row;
+}
