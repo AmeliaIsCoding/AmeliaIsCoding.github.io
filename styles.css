@@ -1,5 +1,9 @@
-p {
-    background-color: black;
+body {
+    color: black;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: palevioletred;
+    border: 1px solid paleturquoise;
 }
