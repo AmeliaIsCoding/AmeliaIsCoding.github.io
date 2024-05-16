@@ -1,6 +1,6 @@
 body {
-    color: black;
-    text-align: center;
+    background-color: blanchedalmond;
+    color: darkslategray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1 {
@@ -9,4 +9,10 @@ h1 {
 }
 .row {
     display: flex;
+}
+h2 {
+    text-decoration: underline;
+}
+.center-align {
+    text-align: center;
 }
