@@ -1,11 +1,12 @@
 body {
-    background-color: blanchedalmond;
+    background-color:antiquewhite;
     color: darkslategray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1 {
     color: palevioletred;
-    border: 3px solid paleturquoise;
+    border: 3px solid lightseagreen;
+    background-color:paleturquoise;
 }
 .row {
     display: flex;
