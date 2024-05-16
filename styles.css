@@ -24,7 +24,7 @@ h2 {
 .center-align {
     text-align: center;
 }
-button {
+.button {
     background-color:palevioletred;;
     border: none;
     color: white;
@@ -33,9 +33,10 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    border-radius: 2%;
+    border-radius: 5%;
     align-self: center;
     margin-bottom: 5%;
+    align-items: center;
   }
   .cat-link {
     background-color:lightseagreen;
@@ -48,4 +49,5 @@ button {
     font-size: 30px;
     border-radius: 2%;
     align-self: center;
+    align-items: center;
   }
