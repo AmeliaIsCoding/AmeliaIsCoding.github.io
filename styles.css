@@ -48,6 +48,10 @@ h2 {
   align-items: center;
 }
 
+.button-love:hover {
+  background-color: lightseagreen;
+}
+
 .cat-link {
   background-color: lightseagreen;
   border: none;

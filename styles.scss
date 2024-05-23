@@ -44,7 +44,10 @@ h2 {
     align-self: center;
     margin-bottom: 5%;
     align-items: center;
-  }
+}
+.button-love:hover {
+    background-color:$accentcolour2;
+}
   .cat-link {
     background-color:$accentcolour2;
     border: none;
@@ -57,4 +60,4 @@ h2 {
     border-radius: 2%;
     align-self: center;
     align-items: center;
-  }
+}
