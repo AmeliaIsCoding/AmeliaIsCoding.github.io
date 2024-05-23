@@ -1,0 +1,60 @@
+$accentcolour: palevioletred;
+$accentcolour2: lightseagreen;
+
+body {
+    background-color:antiquewhite;
+    color: darkslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: $accentcolour;
+    border: 3px solid $accentcolour;
+    background-color:paleturquoise;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.cat {
+    flex: 1;
+    text-align: left;
+    padding: 3%;
+
+    div {
+        background-color: azure;
+    }
+}
+h2 {
+    color: $accentcolour;
+    text-decoration: underline;
+}
+.center-align {
+    text-align: center;
+}
+.button-love {
+    background-color:$accentcolour;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5%;
+    align-self: center;
+    margin-bottom: 5%;
+    align-items: center;
+  }
+  .cat-link {
+    background-color:$accentcolour2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    border-radius: 2%;
+    align-self: center;
+    align-items: center;
+  }
