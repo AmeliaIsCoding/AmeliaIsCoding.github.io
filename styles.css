@@ -24,7 +24,7 @@ h2 {
 .center-align {
     text-align: center;
 }
-.button {
+button.love {
     background-color:palevioletred;;
     border: none;
     color: white;
